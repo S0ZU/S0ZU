@@ -1,6 +1,6 @@
 ### Hi there, I'm Pavith - aka [SOZU][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Pavith0Yatawara?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Pavith0Yatawara)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Pavith0Yatawara?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Pavith_Yatawara)
 
 ## I'm a Student, Developer !! 
 
@@ -32,6 +32,6 @@
 <br />
 
 [website]: #
-[twitter]: https://twitter.com/Pavith0Yatawara/
+[twitter]: https://twitter.com/Pavith_Yatawara/
 [instagram]: https://www.instagram.com/_ya.ta.wa.ra_/
 [linkedin]: https://www.linkedin.com/in/pavith-yatawara-8037a81b1/

@@ -6,7 +6,7 @@
 
 - 📚 concentrating on my studies 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games 
 
 ### Connect with me:

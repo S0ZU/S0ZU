@@ -33,5 +33,5 @@
 
 [website]: #
 [twitter]: https://twitter.com/Pavith_Yatawara/
-[instagram]: https://www.instagram.com/_ya.ta.wa.ra_/
+[instagram]: https://www.instagram.com/pavith.ya___/
 [linkedin]: https://www.linkedin.com/in/pavith-yatawara-8037a81b1/

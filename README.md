@@ -1,20 +1,19 @@
-### Hi there, I'm Pavith - aka [SOZU][website] 👋
+### Hi there, I'm Pavith - aka [SOZU][website] ?��
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pavith_Yatawara?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Pavith_Yatawara)
 
-## I'm a Student, Developer !! 
+## I'm a Student, Developer !!
 
-- 📚 concentrating on my studies 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- ?�� concentrating on my studies 
+- ?�� I’m currently learning everything ?��
+- ?�? 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games 
 
 ### Connect with me:
 
-
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/179/179342.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1647017045~hmac=7398cb4f67aae0eba6907ffcc6fa2e05" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1659763578~hmac=896e011de0b877aac1750cfca0e158df" />][instagram]
 
 <br />
 

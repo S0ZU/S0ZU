@@ -13,7 +13,7 @@
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/179/179342.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://ibb.co/HxD2sw1" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.ibb.co/Yy7WMnY/3955024.png" />][instagram]
 
 <br />
 

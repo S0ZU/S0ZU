@@ -9,8 +9,9 @@
 - 2023 Goals: Contribute more to Open Source projects
 - Fun fact: I love to play games ⚡
 
-### Connect with me:
-
+### Connect with me
+:
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/11301/11301072.png " />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/179/179342.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.ibb.co/Yy7WMnY/3955024.png" />][instagram]
@@ -30,7 +31,7 @@
 <br />
 <br />
 
-[website]: #
+[website]: https://pavithyatawara.netlify.app/
 [twitter]: https://twitter.com/Pavith_Yatawara/
 [instagram]: https://www.instagram.com/pavith.ya___/
 [linkedin]: https://www.linkedin.com/in/pavith-yatawara-8037a81b1/

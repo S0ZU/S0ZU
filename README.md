@@ -10,7 +10,7 @@
 - Fun fact: I love to play games ⚡
 
 ### Connect with me
-:
+
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/11301/11301072.png" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/179/179342.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]

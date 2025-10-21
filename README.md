@@ -8,10 +8,10 @@
 
 ---
 
-### 🧑‍💻 About Me  
+### 🧑‍💻 About Me
 
 Hi! I’m a **developer and tech enthusiast** who loves creating smooth, functional, and aesthetic digital experiences.  
-I enjoy working across the full stack — from **frontend design** to **backend logic** — and constantly learning new tools that make the web more powerful and accessible.  
+I enjoy working across the full stack — from **frontend design** to **backend logic** — and constantly learning new tools that make the web more powerful and accessible.
 
 - 🚀 **Currently building:** modern web projects & digital tools  
 - 🌱 **Learning:** advanced React, Next.js & backend integrations  
@@ -20,7 +20,7 @@ I enjoy working across the full stack — from **frontend design** to **backend 
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://pavithyatawara.netlify.app/" target="_blank">
@@ -60,13 +60,13 @@ I enjoy working across the full stack — from **frontend design** to **backend 
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sozu-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sozu-dev&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=S0ZU&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=S0ZU&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### ✨ Quote I Live By  
+### ✨ Quote I Live By
 
 > _“Keep building, keep learning, keep growing.”_
 
@@ -75,4 +75,3 @@ I enjoy working across the full stack — from **frontend design** to **backend 
 <p align="center">
   <a href="https://pavithyatawara.netlify.app/">🌐 Visit my portfolio →</a>
 </p>
-
